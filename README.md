@@ -1,0 +1,26 @@
+# Hello, I'm Mohamed Oraby! 👋
+
+I am a Computer Engineering student at Suez Canal University, passionate about Cybersecurity and Penetration Testing.
+
+### 🛠 My Toolkit & Interests
+- **Security:** Penetration Testing, Network Security, Cloud Security.
+- **Languages:** Python (for security automation).
+- **Platforms:** TryHackMe, HackTheBox, CyberTalents.
+
+### 🎯 My Goal
+To become a professional Penetration Tester and build secure systems.
+
+<!--
+**mohamed-moataz-sec/mohamed-moataz-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
